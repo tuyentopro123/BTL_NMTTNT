@@ -1,0 +1,34 @@
+.classify_container {
+    width: 1240px;
+    margin: auto;
+}
+
+.classify_title {
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+
+.classify_title h1{
+    text-align: center;
+}
+
+.classify_training {
+    display: flex;
+    padding: 25px 15px 15px 15px;
+    background-color:#fff;
+    height: 500px;
+}
+
+
+.classify_train {
+    flex:1 1;
+}
+
+.classify_test {
+    flex:1 1;
+}
+
+.chart_title {
+    margin-bottom: 30px;
+    text-align:center;
+}

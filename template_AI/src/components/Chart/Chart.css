@@ -1,0 +1,10 @@
+.recharts-legend-wrapper {
+    right: 0!important;
+    left: inherit!important;
+    bottom: inherit!important;
+    top: 0!important;
+}
+
+.recharts-wrapper{
+    height: 350px!important;;
+}

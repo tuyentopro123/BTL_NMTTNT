@@ -1,0 +1,52 @@
+.home {
+    margin-top: 20px;
+}
+
+.home_container {
+    width: 1006px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+}
+
+.home_title {
+    font-size: 30px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.home_area textarea{
+    width: 1000px;
+    height: 300px;
+    padding: 8px;
+    font-size: 15px;
+    outline: none;
+    resize: none;
+}
+
+.home_button {
+    margin-top: 12px;
+}
+
+.home_button:hover {
+    opacity: .8;
+    transition: opacity 0.4s ease;
+}
+
+.home_button button{
+    padding:10px 20px;
+    background-color: rgb(119, 113, 241);
+    outline: none;
+    border: none;
+    border-radius: 3px;
+    font-size: 15px;
+    color: #eeeaea;
+}
+
+.home_predict {
+    margin-top: 20px;
+    color: rgb(235, 86, 28);
+    font-size: 25px;
+}
